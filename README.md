@@ -6,6 +6,7 @@
 ## 目录
 - `_config.yml`
 - `package.json`
+- `README.md`
 - `scaffolds`
 - `source`
 - `themes`
